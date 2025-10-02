@@ -16,6 +16,10 @@ Acknowledgements
 ======
 I am lucky to receive advice and learn from [Mateo Díaz](https://mateodd25.github.io/), [Tim Kunisky](http://www.kunisky.com/), and [Mauricio Velasco](https://mauricio-velasco.github.io/webpage/).
 
+Curriculum vitae 
+======
+You can find my CV (here)[../assets/cv.pdf].
+
 Beyond Academics
 ======
 Outside of my research, I am a competitive powerlifter and currently hold the Asian record. You can find me [here](https://www.openpowerlifting.org/u/haoruozhang). I also enjoy making music, which has been a long-term personal pursuit.
