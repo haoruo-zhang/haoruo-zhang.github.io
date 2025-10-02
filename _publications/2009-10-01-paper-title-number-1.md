@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Music Emotion Prediction using Recurrent Neural Networks"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: preprints
+permalink: /publication/music-emotion-rnn
+excerpt: 'This work explores RNN-based models for music emotion recognition, comparing RNN, BRNN, and LSTM architectures with traditional classifiers. Data augmentation significantly improved model performance, highlighting the potential for personalized music recommendation and therapy systems.'
+date: 2024-05-10
+venue: 'arXiv Preprint'
+paperurl: 'https://arxiv.org/abs/2405.06747'
+bibtexurl: 'https://arxiv.org/bibtex/2405.06747'
+citation: 'Chang, X., Zhang, X., **Zhang, H.**, & Ran, Y. (2024). "Music Emotion Prediction using Recurrent Neural Networks." <i>arXiv:2405.06747</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This project investigates the application of recurrent neural networks (RNN, BRNN, LSTM) to predict emotions in music, based on **Russell’s Emotion Quadrant**.  
+We curated datasets of 900 clips, augmented them to 3,600 samples, and applied feature extraction via **Librosa**.  
+Our experiments demonstrate that while baseline models can be competitive, RNN-based approaches benefit significantly from **data augmentation** and larger datasets, improving accuracy by up to 30%.  
+
+This research highlights the intersection of **machine learning, affective computing, and music therapy**, with applications in **personalized music recommendation systems**.
+
