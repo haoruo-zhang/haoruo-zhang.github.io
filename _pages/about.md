@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: "Haoruo Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Haoruo Zhang
-======
 I am currently a research fellow in [Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at [Johns Hopkins University](https://www.jhu.edu/), working under the guidance of [Mateo Díaz](https://mateodd25.github.io/). I also collaborate with [Tim Kunisky](http://www.kunisky.com/) and [Mauricio Velasco](https://mauricio-velasco.github.io/webpage/). I received my **M.S. in Data Science** from the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/) at Johns Hopkins, and my **B.Sc. in Applied Mathematics** from [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en). For more details, please see my [CV](../assets/cv.pdf).
 
 I am broadly interested in **optimization** and its applications to applied mathematics and data science.  
