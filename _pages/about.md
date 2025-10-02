@@ -18,8 +18,7 @@ I am lucky to receive advice and learn from [Mateo Díaz](https://mateodd25.gith
 
 Beyond Academics
 ======
-Outside of my research, I am a competitive powerlifter and a current Asian record holder. You can find me [here](https://www.openpowerlifting.org/u/haoruozhang)  
-I also enjoy making music, which has been a long-term personal pursuit.
+Outside of my research, I am a competitive powerlifter and currently hold the Asian record. You can find me [here](https://www.openpowerlifting.org/u/haoruozhang). I also enjoy making music, which has been a long-term personal pursuit.
 
 Contact
 ======
