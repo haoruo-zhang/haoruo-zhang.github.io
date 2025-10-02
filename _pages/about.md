@@ -18,7 +18,7 @@ I am lucky to receive advice and learn from [Mateo Díaz](https://mateodd25.gith
 
 Curriculum vitae 
 ======
-You can find my CV (here)[../assets/cv.pdf].
+You can find my CV [here](../assets/cv.pdf).
 
 Beyond Academics
 ======
